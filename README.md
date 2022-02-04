@@ -16,5 +16,5 @@ python parser.py
 # Changelog
 
 ## [0.1] - 2022-02-04
-### Security
-- Fix possible ReDOS in newline rule. Thanks to @MakeNowJust.
+### Добавлены
+- Базовые функции приложение
